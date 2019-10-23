@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Installer>    
+<Name>Counter</Name>    
+<Version>1.0.0</Version>    
+<Title>Two option counter</Title>    
+<Publisher>None</Publisher>    
+<StartMenuDir>Counter</StartMenuDir>    
+<TargetDir>@HomeDir@/Counter</TargetDir> 
+</Installer>

@@ -1,0 +1,12 @@
+#ifndef COUNTERLIB_GLOBAL_H
+#define COUNTERLIB_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(COUNTERLIB_LIBRARY)
+#  define COUNTERLIBSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define COUNTERLIBSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif
