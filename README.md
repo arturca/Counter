@@ -1,5 +1,5 @@
 # Counter
-Quick two option counter written with Qt and C++.
+Quick two option counter written while learning Qt freamwork.
 
 # Screenshots
 ![](screenshots-counter/counter_1.png)
